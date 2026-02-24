@@ -14,7 +14,7 @@ HTML | CSS | JavaScript | React | Next.js | Git | GitHub | Figma | REST API | Re
 
 - [WEBSTUDIO Landing Page](https://zotix-hub.github.io/goit-markup-hw-01/) – Individual project focused on responsive design and clean layout. Built full landing page using HTML and CSS with adaptive layouts for multiple devices.
 
-  🗣️ Languages
+ 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
 
