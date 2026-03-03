@@ -1,4 +1,4 @@
- 👋 Hi, I'm Artem Illyushchenko
+ 👋 Hi, I'm Artem Illiushchenko
 
  About Me
 Junior Frontend Developer | HTML, CSS, JavaScript, React, Next.js  
